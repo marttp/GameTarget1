@@ -1,0 +1,13 @@
+S:\Project Visual Studio\C#\Game Target\Game\Game\bin\Debug\Game.exe.config
+S:\Project Visual Studio\C#\Game Target\Game\Game\bin\Debug\Game.exe
+S:\Project Visual Studio\C#\Game Target\Game\Game\bin\Debug\Game.pdb
+S:\Project Visual Studio\C#\Game Target\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+S:\Project Visual Studio\C#\Game Target\Game\Game\obj\Debug\Game.exe
+S:\Project Visual Studio\C#\Game Target\Game\Game\obj\Debug\Game.pdb
+D:\SavefileEachLanguage\Visual Studio\C#\Game Target\Game\Game\bin\Debug\Game.exe.config
+D:\SavefileEachLanguage\Visual Studio\C#\Game Target\Game\Game\bin\Debug\Game.exe
+D:\SavefileEachLanguage\Visual Studio\C#\Game Target\Game\Game\bin\Debug\Game.pdb
+D:\SavefileEachLanguage\Visual Studio\C#\Game Target\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\SavefileEachLanguage\Visual Studio\C#\Game Target\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\SavefileEachLanguage\Visual Studio\C#\Game Target\Game\Game\obj\Debug\Game.exe
+D:\SavefileEachLanguage\Visual Studio\C#\Game Target\Game\Game\obj\Debug\Game.pdb
